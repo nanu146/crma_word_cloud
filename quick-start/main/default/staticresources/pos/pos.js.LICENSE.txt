@@ -1,0 +1,15 @@
+/*!
+ * jsPOS
+ *
+ * Copyright 2010, Percy Wegmann
+ * Licensed under the GNU LGPLv3 license
+ * http://www.opensource.org/licenses/lgpl-3.0.html
+ */
+
+/*!
+ * jsPOS
+ *
+ * Copyright 2010, Percy Wegmann
+ * Licensed under the LGPLv3 license
+ * http://www.opensource.org/licenses/lgpl-3.0.html
+ */
